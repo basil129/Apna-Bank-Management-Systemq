@@ -1,0 +1,6 @@
+account_id,customer_id,account_type,balance,is_active,created_at
+A9F1E2D3,C1A2B3C4,savings,1500.00,True,2025-01-10 09:00:00
+A8E7D6C5,C2B3C4D5,current,800.00,True,2025-01-11 10:30:00
+AB1C2D3E,C2B3C4D5,savings,3200.50,True,2025-02-01 14:00:00
+AE7780814,C64E24459,savings,550.00,True,2026-06-18 09:54:43
+A9BDA6BD1,C64E24459,current,50.00,False,2026-06-18 09:54:43

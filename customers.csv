@@ -1,0 +1,4 @@
+customer_id,name,email,phone,account_ids
+C1A2B3C4,Alice Johnson,alice@email.com,07700900111,A9F1E2D3
+C2B3C4D5,Bob Smith,bob@email.com,07700900222,A8E7D6C5|AB1C2D3E
+C64E24459,Test User,test@test.com,07700999999,AE7780814|A9BDA6BD1
